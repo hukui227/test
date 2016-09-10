@@ -1,3 +1,10 @@
+
+git软件
+
+公司用的是gitlib
+我自己用的是github：账号：hukui227
+
+
 git本地删除文件同步服务端
 1，删除文件
 2，git add -A
