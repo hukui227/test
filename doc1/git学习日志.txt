@@ -1,0 +1,5 @@
+git本地删除文件同步服务端
+1，删除文件
+2，git add -A
+   git commit -m ""
+   git push origin master
